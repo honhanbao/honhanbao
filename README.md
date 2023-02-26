@@ -31,9 +31,9 @@
  - Microsoft SQL Server, MySQL, JDBC 
 
  
-<!--  <div> My <a href="https://www.linkedin.com/in/baonhanho/details/publications/">Publications</a>
+ <div> My <a href="https://www.linkedin.com/in/baonhanho/details/publications/">Publications</a>
  
- </div> -->
+ </div>
 
 
 
