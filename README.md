@@ -1,5 +1,5 @@
 
-<h2>Hello, and nice to see you!!! <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F04%2F55%2F11%2F94%2F1000_F_455119483_YoFzUusF2mNB1u7t1ZTQnXQTXtW2n46q.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fau%2Fimages%2Fwaving-hand-gesture-emoji-icon-illustration-sign-hello-and-goodbye-vector-symbol-emoticon-design-vector-clip-art%2F455119483&tbnid=w1SYNwSrj3TRvM&vet=12ahUKEwjA2vSnnbL9AhVilNgFHal9BnwQMyhlegUIARDkAQ..i&docid=2AUapHnW86VJ0M&w=1000&h=1000&q=hello%20icon&ved=2ahUKEwjA2vSnnbL9AhVilNgFHal9BnwQMyhlegUIARDkAQ" width="350" title="hover text"></h2>
+<h2>Hello, and nice to see you!!!</h2>
 
 <h2>Who am I?</h2>
 <div>
