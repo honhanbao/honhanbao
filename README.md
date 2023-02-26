@@ -1,5 +1,5 @@
 
-<h2 styles="background-color:#00BFFF">Hello, and nice to meet you</h2>
+<h2 styles="text-align: center">Hello, and nice to meet you</h2>
 
 - I’m Bao Ho - @honhanbao
 - Thanks for visit my github site!
