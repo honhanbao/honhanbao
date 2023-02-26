@@ -18,6 +18,7 @@
  </div>
  
  <h2>About my github</h2>
+ 
  - This place stores some of my works on Machine Learning, Data Analytics, SQL, Web development ...
  
 <!--  <h2>Technical skills:</h2>
