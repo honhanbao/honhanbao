@@ -5,14 +5,20 @@
 <div>
  - I’m Bao Ho - @honhanbao
   
- - I'm an <b>IT lecturer at Didasko Group</b> and an IT Teaching Associate at Monash University.
+ - I'm an <b>IT lecturer at Didasko Group</b> and an <b>IT Teaching Associate at Monash University (Clayton)</b>.
   
  - PhD in combinatorial game theory with many years teaching Maths, and progranmming in Python, Java, Javascript, Excel, and more.
   
- - Have published 20 papers in Descrete mathematics and Computer Science journals
+ - Have published 20 papers in Descrete mathematics and Computer Science journals (collaborating with many internaltional authors).
+ 
+ - Specially interested in the insight of data to discover patterns and trends.
+ 
+ - This place store some of my works on several areas including Machine Learning, Data Analytics, SQL, Web development ...
+ 
+ - Reach me: nhanbaoho@gmail.com
  <div>
 
-- Reach me: nhanbaoho@gmail.com
+
 
 <!---
 honhanbao/honhanbao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
