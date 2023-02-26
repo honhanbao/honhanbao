@@ -5,7 +5,7 @@
 <div>
  - I’m Bao Ho - @honhanbao
   
- - I'm an <b>IT lecturer at Didasko Group</b> and an <b>IT Teaching Associate at Monash University (Clayton)</b>.
+ - I'm an <b>IT lecturer at Didasko Group (Melbourne)</b> and an <b>IT Teaching Associate at Monash University (Clayton)</b>.
   
  - PhD in combinatorial game theory with many years teaching Maths, and progranmming in Python, Java, Javascript, Excel, and more.
   
@@ -15,8 +15,14 @@
  
  - This place store some of my works on several areas including Machine Learning, Data Analytics, SQL, Web development ...
  
+ - Looking for collaboration on Machine Learning & Web Development
+ 
  - Reach me: nhanbaoho@gmail.com
- <div>
+ </div>
+ 
+<!--  <div> My publications:
+ 
+ </div> -->
 
 
 
