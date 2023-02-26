@@ -15,7 +15,7 @@
  
  - Looking for collaboration on Machine Learning & Web Development
  
- - Reach me: <a href="nhanbaoho@gmail.com">email</a>
+ - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
  
  <h2>About my github</h2>
