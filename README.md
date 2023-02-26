@@ -31,7 +31,7 @@
  - Microsoft SQL Server, MySQL, JDBC 
 
  
-<!--  <div> My publications:
+<!--  <div> My <a href="https://www.linkedin.com/in/baonhanho/details/publications/">Publications</a>
  
  </div> -->
 
