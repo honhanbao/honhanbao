@@ -2,13 +2,13 @@
 <h2>Hello, and nice to see you!!!</h2>
 
 <h2>Who am I?</h2>
-
 - I’m Bao Ho - @honhanbao
-- Thanks for visit my github site!
-- My background is mathematics (PhD in combinatorial game theory) with many years teaching Python and Java.
-- I’m interested in Data Programming, especially Machine Learning.
-- I’m looking to collaborate on Machine Learning projects, enjoying fun and new thinking.
-- How to reach me: nhanbaoho@gmail.com
+- I'm an <b>IT lecturer at Didasko Group</b> and an IT Teaching Associate at Monash University.
+- PhD in combinatorial game theory with many years teaching Maths, and progranmming in Python, Java, Javascript, Excel, and more
+- Have published 20 papers in Descrete mathematics and Computer Science journals
+- 
+
+- Reach me: nhanbaoho@gmail.com
 
 <!---
 honhanbao/honhanbao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
