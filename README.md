@@ -3,7 +3,7 @@
 
 <h2>Who am I?</h2>
 <div>
- - I’m Bao Ho - @honhanbao
+ <h3>I’m Bao Ho - @honhanbao</h3>
   
  - I'm an <b>IT lecturer at Didasko Group (Melbourne)</b> and an <b>IT Teaching Associate at Monash University (Clayton)</b>.
   
