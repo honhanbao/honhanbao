@@ -15,7 +15,7 @@
  
  - Looking for collaboration on Machine Learning & Web Development
  
- - Reach me: nhanbaoho@gmail.com
+ - Reach me: <a href="nhanbaoho@gmail.com">email</a>
  </div>
  
  <h2>About my github</h2>
