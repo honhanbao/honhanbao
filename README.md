@@ -1,4 +1,6 @@
+
 <h2 styles="background-color:#00BFFF">Hello, and nice to meet you</h2>
+
 - I’m Bao Ho - @honhanbao
 - Thanks for visit my github site!
 - My background is mathematics (PhD in combinatorial game theory) with many years teaching Python and Java.
