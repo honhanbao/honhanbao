@@ -13,12 +13,13 @@
  
  - Specially interested in the insight of data to discover patterns and trends.
  
- - This place store some of my works on several areas including Machine Learning, Data Analytics, SQL, Web development ...
- 
  - Looking for collaboration on Machine Learning & Web Development
  
  - Reach me: nhanbaoho@gmail.com
  </div>
+ 
+ <h2>About my github</h2>
+ - This place store some of my works on several areas including Machine Learning, Data Analytics, SQL, Web development ...
  
 <!--  <div> My publications:
  
