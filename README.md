@@ -21,19 +21,17 @@
  <h2>About my github</h2>
  - This place store some of my works on several areas including Machine Learning, Data Analytics, SQL, Web development ...
  
- <h2>Technical skills:</h2>
+<!--  <h2>Technical skills:</h2>
  - Python, Java, SQL, Excel VBA
  
  - NumPy, Pansda, Seaborn, Mathplotlib, Scikit-Learn
 
  - JavaScript, CSS, HTML, C#, ASP.NET
  
- - Microsoft SQL Server, MySQL, JDBC 
+ - Microsoft SQL Server, MySQL, JDBC  -->
 
  
- <div> My <a href="https://www.linkedin.com/in/baonhanho/details/publications/">Publications</a>
- 
- </div>
+ <h2>  My <a href="https://www.linkedin.com/in/baonhanho/details/publications/">Publications</a></h2>
 
 
 
