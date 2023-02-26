@@ -3,10 +3,13 @@
 
 <h2>Who am I?</h2>
 <div>
-  - I’m Bao Ho - @honhanbao
-  - I'm an <b>IT lecturer at Didasko Group</b> and an IT Teaching Associate at Monash University.
-  - PhD in combinatorial game theory with many years teaching Maths, and progranmming in Python, Java, Javascript, Excel, and more
-  - Have published 20 papers in Descrete mathematics and Computer Science journals
+ - I’m Bao Ho - @honhanbao
+  
+ - I'm an <b>IT lecturer at Didasko Group</b> and an IT Teaching Associate at Monash University.
+  
+ - PhD in combinatorial game theory with many years teaching Maths, and progranmming in Python, Java, Javascript, Excel, and more.
+  
+ - Have published 20 papers in Descrete mathematics and Computer Science journals
  <div>
 
 - Reach me: nhanbaoho@gmail.com
