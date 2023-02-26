@@ -9,11 +9,10 @@
   
  - PhD in combinatorial game theory with many years teaching Maths, and progranmming in Python, Java, Javascript, Excel, and more.
   
- - Have published 20 papers in Descrete mathematics and Computer Science journals (collaborating with many internaltional authors).
+ - Have published 20 papers in Descrete mathematics and Computer Science journals (collaborating with many internaltional authors). See my <a href="https://www.linkedin.com/in/baonhanho/details/publications/">Publications</a>
  
  - Specially interested in the insight of data to discover patterns and trends.
  
- - Looking for collaboration on Machine Learning & Web Development
  
  - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
