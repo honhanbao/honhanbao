@@ -10,10 +10,7 @@
  - PhD in Combinatorial Game Theory (La Trobe University - 2012) with many years teaching Mathematics, and progranmming in Python, Java, Javascript, Excel, and more.
   
  - Have published 20 papers in Descrete mathematics and Computer Science journals (collaborating with many internaltional authors). My <a href="https://www.linkedin.com/in/baonhanho/details/publications/">Publications</a>
- 
- - Specially interested in the insight of data to discover patterns and trends.
- 
- 
+  
  - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
  
