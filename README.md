@@ -28,7 +28,7 @@
 
  - JavaScript, CSS, HTML, C#, ASP.NET
  
- - Microsoft SQL Server, MySQL, JDBC  -->
+ - Microsoft SQL Server, JDBC  -->
 
  
  <h2>  My <a href="https://www.linkedin.com/in/baonhanho/details/publications/">Publications</a></h2>
