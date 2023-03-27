@@ -6,9 +6,9 @@
  <h3>I’m Bao Ho - @honhanbao</h3>
   
  - I'm 
-   - an <b>IT lecturer at Didasko Group (Melbourne)</b> 
-   - an <b>IT Teaching Associate at Monash University (Clayton) - Falculty of IT</b>.
-   - an <b>honorary research fellow at La Trobe Unibersity - Mathematics</>
+   - an IT lecturer at Didasko Group (Melbourne)
+   - an IT Teaching Associate at Monash University (Clayton) - Falculty of IT
+   - an honorary research fellow at La Trobe Unibersity - Mathematics
   
  - PhD in Combinatorial Game Theory (La Trobe University - 2012) with many years teaching Mathematics, and progranmming in Python, Java, Javascript, Excel, and more.
   
