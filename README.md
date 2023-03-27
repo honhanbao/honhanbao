@@ -10,7 +10,9 @@
    - an IT Teaching Associate at Monash University (Clayton) - Falculty of IT
    - an honorary research fellow at La Trobe Unibersity - Mathematics
   
- - PhD in Combinatorial Game Theory (La Trobe University - 2012) with many years teaching Mathematics, and progranmming in Python, Java, Javascript, Excel, and more.
+ - PhD in Combinatorial Game Theory (La Trobe University - 2012) 
+ 
+ - Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University. Trinity College - Melbourne University)
   
  - Have published 20 papers in Descrete mathematics and Computer Science journals (collaborating with many internaltional authors). My <a href="https://www.linkedin.com/in/baonhanho/details/publications/">Publications</a>
   
