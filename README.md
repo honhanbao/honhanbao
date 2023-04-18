@@ -1,5 +1,5 @@
 
-<h2>Hello, and nice to see you!!!</h2>
+<h2>Hello, and thanks for visiting me!!!</h2>
 
 <div>
  <h3>I’m Bao Ho - @honhanbao</h3>
