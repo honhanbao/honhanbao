@@ -16,9 +16,10 @@
  - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
  
+ <!--
  <h2>About my github</h2>
  
- - This place stores some of my works on Machine Learning, Data Analytics, SQL, Web development ...
+ - This place stores some of my works for fun on Machine Learning, Data Analytics, SQL, Web development ... when I have free time. Coding is fun -->
  
 <!--  <h2>Technical skills:</h2>
  - Python, Java, SQL, Excel VBA
@@ -29,9 +30,9 @@
  
  - Microsoft SQL Server, JDBC  -->
 
- 
+ <!--
  <h2>  My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a></h2>
-
+-->
 
 
 <!---
