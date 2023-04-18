@@ -10,7 +10,8 @@
  
  - Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University, Trinity College - Melbourne University)
   
- - Have published 20 papers in Descrete mathematics and Computer Science journals (collaborating with many internaltional authors). My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>
+ - Have published 20 papers in Mathematics and Computer Science journals (collaborating with many authors). </br>
+   My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>
   
  - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
