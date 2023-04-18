@@ -4,7 +4,7 @@
 <div>
  <h3>I’m Bao Ho - @honhanbao</h3>
    
- - PhD in Combinatorial Game Theory (La Trobe University - 2012) 
+ - PhD in Combinatorial Game Theory (La Trobe University - 2012), Master (Education, Mathematics - La Trobe University - 2007), Bachelor (Mathematics - Vietnam)
  
  - Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University, Trinity College - Melbourne University)
   
