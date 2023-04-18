@@ -1,20 +1,14 @@
 
 <h2>Hello, and nice to see you!!!</h2>
 
-<h2>Who am I?</h2>
 <div>
  <h3>I’m Bao Ho - @honhanbao</h3>
-  
- - I'm 
-   - an IT lecturer at Didasko Group (Melbourne)
-   - an IT Teaching Associate at Monash University (Clayton) - Falculty of IT
-   - an honorary research fellow at La Trobe Unibersity - Mathematics
-  
+   
  - PhD in Combinatorial Game Theory (La Trobe University - 2012) 
  
  - Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University, Trinity College - Melbourne University)
   
- - Have published 20 papers in Descrete mathematics and Computer Science journals (collaborating with many internaltional authors). My <a href="https://www.linkedin.com/in/baonhanho/details/publications/">Publications</a>
+ - Have published 20 papers in Descrete mathematics and Computer Science journals (collaborating with many internaltional authors). My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>
   
  - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
@@ -33,7 +27,7 @@
  - Microsoft SQL Server, JDBC  -->
 
  
- <h2>  My <a href="https://www.linkedin.com/in/baonhanho/details/publications/">Publications</a></h2>
+ <h2>  My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a></h2>
 
 
 
