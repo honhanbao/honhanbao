@@ -8,7 +8,7 @@
    Master (Education, Mathematics - La Trobe University - 2007)  </br>
    Bachelor (Mathematics - Vietnam)
  
- - Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University, Trinity College - Melbourne University)
+ - Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University)
   
  - Have published 20 papers in Mathematics and Computer Science journals (collaborating with many authors). </br>
    My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>
