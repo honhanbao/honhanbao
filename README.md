@@ -16,7 +16,7 @@
    My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>
    
     
- - Enjoy coding wnen having free time and here I come!
+ - Enjoy coding when having free time and here I come! 
   
  - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
