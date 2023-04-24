@@ -4,7 +4,7 @@
 <div>
  <h3>I’m Bao Ho - @honhanbao</h3>
    
- - Experienced and expertised in Research (Mathematics), Higher Education, and Programing (Python, Java, Javascript, SQL, Excel VBA)
+ - Research (Mathematics), Higher Education, and Programing.
  
  - PhD in Combinatorial Game Theory (La Trobe University) </br>
    Master (Education, Mathematics - La Trobe University)  </br>
