@@ -6,7 +6,7 @@
    
  - PhD in Combinatorial Game Theory (La Trobe University) </br>
    Master (Education, Mathematics - La Trobe University)  </br>
-   Bachelor (Mathematics - Vietnam)
+   Bachelor (Education, Mathematics - Vietnam)
  
  <!--
  Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University) 
