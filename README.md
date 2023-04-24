@@ -8,6 +8,8 @@
    Master (Education, Mathematics - La Trobe University)  </br>
    Bachelor (Mathematics - Vietnam)
  
+ - Enjoy coding wnen having free time and here I come!
+ 
  <!--
  Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University) 
  -->
