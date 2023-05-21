@@ -7,7 +7,7 @@
  - Research (Mathematics - Combinatorial Game Theory), Higher Education, and Programing.
  
  - PhD in Combinatorial Game Theory (La Trobe University) </br>
-   Master (Education, Mathematics - La Trobe University)  </br>
+   Master (Mathematics, Education - La Trobe University)  </br>
    Bachelor (Mathematics, Education - Vietnam)
  
  <!--
