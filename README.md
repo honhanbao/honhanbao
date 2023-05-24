@@ -43,9 +43,13 @@
  <h2>Projects</h2>
  <h3>Machine Learning</h3>
       <ul>
- <li><a href="https://github.com/honhanbao/ML_LogisticRegression_Breast-Cancer-Wisconsin">Breast Cancer Wisconsin</a> Logistic Regression (97% accuracy)</li>
+           <li><a href="https://github.com/honhanbao/ML_LogisticRegression_Breast-Cancer-Wisconsin">Breast Cancer Wisconsin</a> Logistic Regression (97% accuracy)</li>
       </ul>
  <h3>Data Engineering</h3>
+       <ul>
+           <li><a href="https://github.com/honhanbao/Data-transformation">Data transformation</a> XML, SJON to CSV</li>
+           <li><a href="https://github.com/honhanbao/SQL_Python_European-Soccer-Database">European Soccer Database</a> Pandas, SQL</li>
+      </ul>
  <h3>Data Analysis</h3>
  
  
