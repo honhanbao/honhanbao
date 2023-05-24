@@ -37,9 +37,9 @@
  
  - Microsoft SQL Server, JDBC  -->
 
- <!--
+ 
  <h2>  My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a></h2>
--->
+
 
 
 <!---
