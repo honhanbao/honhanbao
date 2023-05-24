@@ -39,6 +39,7 @@
 
  
  <h2>  My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a></h2>
+ <ul><li>Game Therory, Discrete Mathematics, Combinatorics, Theoretical Computer Science</li></ul>
 
  <h2>Projects</h2>
  <h3>Machine Learning</h3>
