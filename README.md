@@ -42,6 +42,9 @@
 
  <h2>Projects</h2>
  <h3>Machine Learning</h3>
+      <ul>
+ <li><a href="https://github.com/honhanbao/ML_LogisticRegression_Breast-Cancer-Wisconsin">Breast Cancer Wisconsin</a></li>
+      </ul>
  <h3>Data Engineering</h3>
  <h3>Data Analysis</h3>
  
