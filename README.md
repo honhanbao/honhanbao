@@ -44,7 +44,9 @@
  <h2>Projects</h2>
  <h3>Machine Learning</h3>
       <ul>
-           <li><a href="https://github.com/honhanbao/ML_LogisticRegression_Breast-Cancer-Wisconsin">Breast Cancer Wisconsin</a> Logistic Regression (97% accuracy). Also see it on <a href="https://www.kaggle.com/code/nhanbaoho/logistic-regression-accuracy-97">Kaggle</a></li>
+           <li><a href="https://github.com/honhanbao/ML_LogisticRegression_Breast-Cancer-Wisconsin">Breast Cancer Wisconsin</a> 
+            Logistic Regression (97% accuracy). 
+            Also see it on <a href="https://www.kaggle.com/code/nhanbaoho/logistic-regression-accuracy-97">Kaggle</a></li>
       </ul>
  <h3>Data Engineering</h3>
        <ul>
@@ -60,7 +62,7 @@
            <li><a href="https://github.com/honhanbao/PowerBI-SQL_Data-Sience-Jobs-Salaries">Data Sience Jobs Salaries</a> 
                 SQL, PowerBI</li>
            <li><a href="https://github.com/honhanbao/Cost-of-Living-Index-2022">Cost of Living Index 2022</a> 
-                Pandas, Numpy, Matplotlid, Seaborns, PowerBI
+                Pandas, Numpy, Matplotlid, Seaborns, PowerBI. 
                 Also see it on <a href="https://www.kaggle.com/code/nhanbaoho/analysis-of-cost-of-living-index-2022">Kaggle</a></li>
       </ul>
   <h3>Web Development</h3>
