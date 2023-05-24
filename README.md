@@ -47,11 +47,20 @@
       </ul>
  <h3>Data Engineering</h3>
        <ul>
-           <li><a href="https://github.com/honhanbao/Data-transformation">Data transformation</a> XML, SJON to CSV</li>
-           <li><a href="https://github.com/honhanbao/SQL_Python_European-Soccer-Database">European Soccer Database</a> Pandas, SQL</li>
+           <li><a href="https://github.com/honhanbao/Data-transformation">Data transformation</a> Transform XML, SJON to CSV with Python</li>
+           <li><a href="https://github.com/honhanbao/SQL_Python_European-Soccer-Database">European Soccer Database</a> Data transformation with Pandas, SQL</li>
       </ul>
  <h3>Data Analysis</h3>
- 
+        <ul>
+           <li><a href="https://github.com/honhanbao/PowerBI-Python_Data-Sience-Jobs-Salaries">Data Sience Jobs Salaries
+</a> Pandas, Numpy, Matplotlid, Seaborns, PowerBI</li>
+           <li><a href="https://github.com/honhanbao/PowerBI-SQL_Data-Sience-Jobs-Salaries">Data Sience Jobs Salaries</a> SQL, PowerBI</li>
+           <li><a href="https://github.com/honhanbao/Cost-of-Living-Index-2022">Cost of Living Index 2022</a> Pandas, Numpy, Matplotlid, Seaborns, PowerBI</li>
+      </ul>
+  <h3>Web Development</h3>
+        <ul>
+           <li><a href="https://github.com/honhanbao/books_app">Book App</a> React, CSS, JavaScrip</li>
+      </ul>
  
 
 <!---
