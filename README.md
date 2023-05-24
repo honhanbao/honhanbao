@@ -40,7 +40,12 @@
  
  <h2>  My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a></h2>
 
-
+ <h2>Projects</h2>
+ <h3>Machine Learning</h3>
+ <h3>Data Engineering</h3>
+ <h3>Data Analysis</h3>
+ 
+ 
 
 <!---
 honhanbao/honhanbao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
