@@ -51,7 +51,8 @@
  <h3>Data Engineering</h3>
        <ul>
            <li><a href="https://github.com/honhanbao/Data-transformation">Data transformation</a> Transform XML, SJON to CSV with Python</li>
-           <li><a href="https://github.com/honhanbao/Data-Wrangling">Data Wrangling</a>A practice with tutorial from Kaggle</li>
+           <li><a href="https://github.com/honhanbao/Data-Wrangling">Data Wrangling</a>
+                A practice with tutorial from <a href=https://www.kaggle.com/code/mafaisal007/data-wrangling-tutorial">Kaggle tutorial</a></li>
            <li><a href="https://github.com/honhanbao/SQL_Python_European-Soccer-Database">European Soccer Database</a> 
                 Data transformation with Pandas, SQL. 
                 Also see it on <a href="https://www.kaggle.com/code/nhanbaoho/european-soccer-database-with-sql">Kaggle</a></li>
