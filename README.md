@@ -14,7 +14,7 @@
  Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University) 
  -->
   
- - Have published about 20 papers in Mathematics and Computer Science journals (collaborating with many authors). </br>
+ - Have published about 18 papers in Mathematics and Computer Science journals (collaborating with many authors). </br>
    My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>
    
     
@@ -51,6 +51,7 @@
  <h3>Data Engineering</h3>
        <ul>
            <li><a href="https://github.com/honhanbao/Data-transformation">Data transformation</a> Transform XML, SJON to CSV with Python</li>
+           <li><a href="https://github.com/honhanbao/Data-Wrangling">Data Wrangling</a>A practice with tutorial from Kaggle</li>
            <li><a href="https://github.com/honhanbao/SQL_Python_European-Soccer-Database">European Soccer Database</a> 
                 Data transformation with Pandas, SQL. 
                 Also see it on <a href="https://www.kaggle.com/code/nhanbaoho/european-soccer-database-with-sql">Kaggle</a></li>
