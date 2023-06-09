@@ -54,7 +54,7 @@
            <li><a href="https://github.com/honhanbao/Data-Wrangling">Data Wrangling</a>
                 A practice with tutorial from <a href=https://www.kaggle.com/code/mafaisal007/data-wrangling-tutorial">Kaggle tutorial</a></li>
            <li><a href="https://github.com/honhanbao/SQL_Python_European-Soccer-Database">European Soccer Database</a> 
-                Data transformation with Pandas, SQL. 
+                Data Preparation with Pandas, SQL. 
                 Also see it on <a href="https://www.kaggle.com/code/nhanbaoho/european-soccer-database-with-sql">Kaggle</a></li>
       </ul>
  <h3>Data Analysis</h3>
