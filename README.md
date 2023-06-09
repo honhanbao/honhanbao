@@ -71,9 +71,7 @@
         <ul>
            <li><a href="https://github.com/honhanbao/films_app">Film App</a> React, CSS, JavaScrip (in progress)</li>
            <li><a href="https://github.com/honhanbao/books_app">Book App</a> React, CSS, JavaScrip (in progress)</li>
-           
-                 
-      </ul>
+        </ul>
  
 
 <!---
