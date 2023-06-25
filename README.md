@@ -4,7 +4,7 @@
 <div>
  <h3>I’m Bao Ho - @honhanbao</h3>
    
- - Research (Mathematics - Combinatorial Game Theory), Higher Education, and Programing.
+ - Research (Mathematics - Combinatorial Game Theory), Higher Education, and Programming.
  
  - PhD in Combinatorial Game Theory (La Trobe University) </br>
    Master (Mathematics, Education - La Trobe University)  </br>
@@ -26,7 +26,8 @@
  <!--
  <h2>About my github</h2>
  
- - This place stores some of my works for fun on Machine Learning, Data Analytics, SQL, Web development ... when I have free time. Coding is fun -->
+ - This place stores some of my works for fun on Machine Learning, Data Analytics, SQL, Web development, ... when I have free time. 
+ Coding is fun -->
  
 <!--  <h2>Technical skills:</h2>
  - Python, Java, SQL, Excel VBA
@@ -50,7 +51,7 @@
       </ul>
  <h3>Data Preparation and Engineering</h3>
        <ul>
-           <li><a href="https://github.com/honhanbao/Data-transformation">Data transformation</a> Transform XML, SJON to CSV with Python</li>
+           <li><a href="https://github.com/honhanbao/Data-transformation">Data Transformation</a> Transform XML, JSON to CSV with Python</li>
            <li><a href="https://github.com/honhanbao/Data-Wrangling">Data Wrangling</a>
                 A practice with tutorial from <a href=https://www.kaggle.com/code/mafaisal007/data-wrangling-tutorial">Kaggle tutorial</a></li>
            <li><a href="https://github.com/honhanbao/SQL_Python_European-Soccer-Database">European Soccer Database</a> 
@@ -59,9 +60,9 @@
       </ul>
  <h3>Data Analysis</h3>
         <ul>
-           <li><a href="https://github.com/honhanbao/PowerBI-Python_Data-Sience-Jobs-Salaries">Data Sience Jobs Salaries</a> 
+           <li><a href="https://github.com/honhanbao/PowerBI-Python_Data-Sience-Jobs-Salaries">Data Science Jobs Salaries</a> 
                 Pandas, Numpy, Matplotlid, Seaborns, PowerBI</li>
-           <li><a href="https://github.com/honhanbao/PowerBI-SQL_Data-Sience-Jobs-Salaries">Data Sience Jobs Salaries</a> 
+           <li><a href="https://github.com/honhanbao/PowerBI-SQL_Data-Sience-Jobs-Salaries">Data Science Jobs Salaries</a> 
                 SQL, PowerBI</li>
            <li><a href="https://github.com/honhanbao/Cost-of-Living-Index-2022">Cost of Living Index 2022</a> 
                 Pandas, Numpy, Matplotlid, Seaborns, PowerBI. 
