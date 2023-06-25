@@ -42,6 +42,10 @@
  <ul><li>Game Therory, Discrete Mathematics, Combinatorics, Theoretical Computer Science</li></ul>
 
  <h2>Projects</h2>
+ <h3>SQL</h3>
+       <ul>
+           <li><a href="https://github.com/honhanbao/SQL-Practice-Problems">SQL-Practice-Problems</a> Solve problems from the book  </li>
+      </ul>
  <h3>Data Preparation and Engineering</h3>
        <ul>
            <li><a href="https://github.com/honhanbao/Data-transformation">Data transformation</a> Transform XML, SJON to CSV with Python</li>
