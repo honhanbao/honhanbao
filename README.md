@@ -39,12 +39,14 @@
 
  
  <h2>  My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a></h2>
- <ul><li>Game Therory, Discrete Mathematics, Combinatorics, Theoretical Computer Science</li></ul>
+ <ul><li>Game Theory, Discrete Mathematics, Combinatorics, Theoretical Computer Science</li></ul>
 
  <h2>Projects</h2>
  <h3>SQL</h3>
        <ul>
-           <li><a href="https://github.com/honhanbao/SQL-Practice-Problems">SQL-Practice-Problems</a> Solve problems from the book  </li>
+           <li><a href="https://github.com/honhanbao/SQL-Practice-Problems">SQL-Practice-Problems</a> Solve problems from the book  
+             <a href="https://sqlpracticeproblems.com/">SQL Practice Problems: 57 Beginning, Intermediate, and Advanced Challenges</a>
+           </li>
       </ul>
  <h3>Data Preparation and Engineering</h3>
        <ul>
