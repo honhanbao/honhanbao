@@ -16,9 +16,6 @@
   
  - Have published about 18 papers in Mathematics and Computer Science journals (collaborating with many authors). </br>
    My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>
-   
-    
- - Enjoy coding when having free time and here I come! 
   
  - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
