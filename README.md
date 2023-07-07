@@ -13,9 +13,7 @@
  <!--
  Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University) 
  -->
-  
- - My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>: 
-  
+
  - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
  
