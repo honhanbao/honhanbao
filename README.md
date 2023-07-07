@@ -14,8 +14,7 @@
  Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University) 
  -->
   
- - Have published about 18 papers in Mathematics and Computer Science journals (collaborating with many authors). </br>
-   My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>
+ - My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>: 18 papers in Mathematics and Computer Science journals (collaborating with many authors)
   
  - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
