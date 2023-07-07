@@ -14,7 +14,7 @@
  Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University) 
  -->
   
- - My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>: 18 papers in Mathematics and Computer Science journals (collaborating with many authors)
+ - My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a>: 
   
  - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
@@ -36,7 +36,11 @@
 
  
  <h2>  My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a></h2>
- <ul><li>Game Theory, Discrete Mathematics, Combinatorics, Theoretical Computer Science</li></ul>
+ <ul>
+      <li>Game Theory, Discrete Mathematics, Combinatorics, Theoretical Computer Science</li>
+      <li>18 papers in Mathematics and Computer Science journals (collaborating with many authors)</li>
+ 
+ </ul>
 
  <h2>Projects</h2>
  <h3>SQL</h3>
