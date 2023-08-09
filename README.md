@@ -50,6 +50,8 @@
  <h3>Data Preparation and Engineering</h3>
        <ul>
            <li><a href="https://github.com/honhanbao/Data-transformation">Data Transformation</a> Transform XML, JSON to CSV with Python</li>
+           <li><a href="https://github.com/honhanbao/Simple-APIs">Simple API</a> Save API data into csv and txt files</li>
+        
            <li><a href="https://github.com/honhanbao/Data-Wrangling">Data Wrangling</a>
                 A practice with tutorial from <a href=https://www.kaggle.com/code/mafaisal007/data-wrangling-tutorial">Kaggle tutorial</a></li>
            <li><a href="https://github.com/honhanbao/SQL_Python_European-Soccer-Database">European Soccer Database</a> 
