@@ -72,6 +72,7 @@
            <li><a href="https://github.com/honhanbao/ML_LogisticRegression_Breast-Cancer-Wisconsin">Breast Cancer Wisconsin</a> 
             Logistic Regression (97% accuracy). 
             Also see it on <a href="https://www.kaggle.com/code/nhanbaoho/logistic-regression-accuracy-97">Kaggle</a></li>
+            <li><a href="https://github.com/honhanbao/Ecommerce-Customer-Churn">Ecommerce Customer Churn</a> In progress  </li>
       </ul>
   <h3>Web Development</h3>
         <ul>
