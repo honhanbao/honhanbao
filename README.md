@@ -37,6 +37,7 @@
  <ul>
       <li>Game Theory, Discrete Mathematics, Combinatorics, Theoretical Computer Science</li>
       <li>18 papers in Mathematics and Computer Science journals (collaborating with many authors)</li>
+      <li>My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a></li>
  
  </ul>
 
