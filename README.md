@@ -36,7 +36,7 @@
  <h2>  My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a></h2>
  <ul>
       <li>Game Theory, Discrete Mathematics, Combinatorics, Theoretical Computer Science</li>
-      <li>18 papers in Mathematics and Computer Science journals (collaborating with many authors)</li>
+      <li><a href="https://scholars.latrobe.edu.au/nbho/publications">18 papers</a> in Mathematics and Computer Science journals (collaborating with many authors)</li>
  
  </ul>
 
