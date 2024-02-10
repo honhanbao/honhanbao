@@ -10,29 +10,11 @@
    Master (Mathematics, Education - La Trobe University)  </br>
    Bachelor (Mathematics, Education - Vietnam)
  
- <!--
- Teaching Mathematics, Computer Science, and IT subjects (La Trobe University, Monash University) 
- -->
 
  - Reach me: nhanbaoho@gmail.com,  <a href="www.linkedin.com/in/baonhanho">Linkedin</a>  
  </div>
  
- <!--
- <h2>About my github</h2>
- 
- - This place stores some of my works for fun on Machine Learning, Data Analytics, SQL, Web development, ... when I have free time. 
- Coding is fun -->
- 
-<!--  <h2>Technical skills:</h2>
- - Python, Java, SQL, Excel VBA
- 
- - NumPy, Pansda, Seaborn, Mathplotlib, Scikit-Learn
-
- - JavaScript, CSS, HTML, C#, ASP.NET
- 
- - Microsoft SQL Server, JDBC  -->
-
- 
+  
  <h2>  My <a href="https://scholars.latrobe.edu.au/nbho/publications">Publications</a></h2>
  <ul>
       <li>Game Theory, Discrete Mathematics, Combinatorics, Theoretical Computer Science</li>
@@ -79,10 +61,10 @@
            <li><a href="https://github.com/honhanbao/films_app">Film App</a> React, CSS, JavaScrip, API (in progress)</li>
            <li><a href="https://github.com/honhanbao/books_app">Book App</a> React, CSS, JavaScrip, API (in progress)</li>
         </ul>
- 
+ -->
 
 <!---
 honhanbao/honhanbao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
--->
+
